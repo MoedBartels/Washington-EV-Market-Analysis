@@ -13,7 +13,7 @@ The analysis examines the competitive landscape, geographic distribution of regi
 The project focuses on three questions:
 
 1. **Competition:** Which manufacturers and models dominate Washington's registered EV market, and how concentrated is the market?
-2. **Geography:** How are EV registrations distributed across counties, cities and electric utility service territories?
+2. **Geography:** How are EV registrations distributed across counties and cities?
 3. **Market Evolution:** How has the registered EV population changed over time, and how has the balance between BEVs and PHEVs evolved?
 
 ## Tools Used
