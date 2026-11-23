@@ -52,7 +52,7 @@ The analysis uses data from the Washington State Department of Licensing:
 - [Electric Vehicle Population Data](https://catalog.data.gov/dataset/electric-vehicle-population-data?from_hint=eyJ1dG1fc291cmNlIjoiY2hhdGdwdC5jb20ifQ%3D%3D)
 - [Electric Vehicle Population Size History](https://catalog.data.gov/dataset/electric-vehicle-population-size-history)
 
-[Washington State Open Data Portal](https://data.wa.gov/)
+
 
 ## Project Files
 
